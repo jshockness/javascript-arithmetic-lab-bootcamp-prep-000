@@ -1,5 +1,5 @@
- var a = 12
- var b = 100
+ var a = 5
+ var b = 10
  
  a + b //
  b - a //
