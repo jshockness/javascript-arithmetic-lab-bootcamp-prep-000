@@ -4,5 +4,5 @@
 function add( a, b)
 function subtract (b, a)
 function multiply (a, b )
-function b / a //
+function divide (b, a)
  
