@@ -16,3 +16,6 @@ function multiply (a, b ) {
 function divide (b, a) {
  return b / a
 }
+function inc(a) {
+  return
+}
