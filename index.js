@@ -2,7 +2,7 @@
  var b = 10
  
 function add( a, b)
-function b - a //
-function a * b //
+function subtract (b, a)
+function multiply (a, b )
 function b / a //
  
